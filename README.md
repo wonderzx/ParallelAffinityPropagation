@@ -1,0 +1,2 @@
+# ParallelAffinityPropagation
+AffinityPropagation algorithm realized by parallel acceleration
